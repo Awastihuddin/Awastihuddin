@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fatihuddin-fawwaz-333955238/" target="_blank">
+  <a href="https://www.linkedin.com/in/awastihuddin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/muhfawz._" target="_blank">
